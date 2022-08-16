@@ -34,8 +34,3 @@ Here are some ideas to get you started:
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Marshxan&theme=onestar&no-bg=false&title=Organizations,Commits,Repositories)](https://github-profile-trophy.vercel.app/?username=Marshxan&theme=onestar&no-bg=false)
-
-
-
-
-[![Join My Discord](https://lanyard-profile-readme.vercel.app/api/931980616344416316)](https://discord.gg/discord-townhall)
