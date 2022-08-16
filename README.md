@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 
 
-[![Join My Discord](https://lanyard-profile-readme.vercel.app/api/931980616344416316)]
+[![Join My Discord](https://lanyard-profile-readme.vercel.app/api/931980616344416316)](https://discord.gg/discord-townhall)
