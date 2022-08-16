@@ -30,3 +30,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshxan&langs_count=5&theme=tokyonight"><br>
 <br>
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Marshxan&theme=onestar&no-bg=false&title=Organizations,Commits,Repositories)](https://github-profile-trophy.vercel.app/?username=Marshxan&theme=onestar&no-bg=false)
