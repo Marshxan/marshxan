@@ -16,7 +16,8 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/?username=Marshxan&count_private=true&theme=tokyonight&showicons=true">
+<img src="https://github-readme-stats.vercel.app/api/?username=Marshxan&count_private=true&theme=tokyonight&showicons=true">        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshxan&langs_count=5&theme=tokyonight"><br>
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshxan&langs_count=5&theme=tokyonight"><br>
 <br>
