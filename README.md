@@ -1,8 +1,8 @@
-### Hi there 👋
 
 
 
 
+[![Discord](https://lanyard.cnrad.dev/api/931980616344416316)](https://discord.gg/dB7aTvKfpf)
 
 ![](https://komarev.com/ghpvc/?username=marshxan&style=flat-square&color=ff69b4)
  
@@ -12,4 +12,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Marshxan&theme=onestar&no-bg=false&title=Organizations,Commits,Repositories)](https://github-profile-trophy.vercel.app/?username=Marshxan&theme=onestar&no-bg=false)    
 
-[![Discord](https://lanyard.cnrad.dev/api/931980616344416316)](https://discord.gg/dB7aTvKfpf)
+
