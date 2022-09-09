@@ -6,7 +6,7 @@
  
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Marshxan&theme=onestar&no-bg=false&title=Organizations,Commits,Repositories)](https://github-profile-trophy.vercel.app/?username=Marshxan&theme=onestar&no-bg=false)    
+[![trophy](https://github-profile-trophy.vercel.app/?username=Marshxan&theme=onestar&no-bg=false&title=Organizations,Commits,Repositories)]
 
 
 .
@@ -26,4 +26,4 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marshxan&show_icons=true&theme=radical)          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marshxan&layout=compact&theme=dracula&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marshxan&show_icons=true&theme=radical)                                                    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marshxan&layout=compact&theme=dracula&langs_count=8)]                                       [![trophy](https://github-profile-trophy.vercel.app/?username=Marshxan&theme=onestar&no-bg=false&title=Organizations,Commits,Repositories)]                                     
