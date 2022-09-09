@@ -11,3 +11,17 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Marshxan&theme=onestar&no-bg=false&title=Organizations,Commits,Repositories)](https://github-profile-trophy.vercel.app/?username=Marshxan&theme=onestar&no-bg=false)    
 
 
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marshxan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
