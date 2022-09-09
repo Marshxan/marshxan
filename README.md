@@ -4,9 +4,7 @@
 
 [![Discord](https://lanyard.cnrad.dev/api/931980616344416316)](https://discord.gg/dB7aTvKfpf)
  
-<img src="https://github-readme-stats.vercel.app/api/?username=Marshxan&count_private=true&theme=tokyonight&showicons=true">   
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshxan&langs_count=5&theme=tokyonight"><br>      
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Marshxan&theme=onestar&no-bg=false&title=Organizations,Commits,Repositories)](https://github-profile-trophy.vercel.app/?username=Marshxan&theme=onestar&no-bg=false)    
 
