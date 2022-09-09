@@ -2,8 +2,7 @@
 
 ![Views](https://komarev.com/ghpvc/?username=marshxan&style=flat-square&color=ff69b4)
 
-# 💻 Current Status:
-[![Discord](https://lanyard.cnrad.dev/api/931980616344416316)](https://discord.gg/dB7aTvKfpf)
+
 
 
 
@@ -19,7 +18,8 @@
 
  
 
-
+# 💻 Current Status:
+[![Discord](https://lanyard.cnrad.dev/api/931980616344416316)](https://discord.gg/dB7aTvKfpf)
 
 
 # 📊 GitHub Stats:
