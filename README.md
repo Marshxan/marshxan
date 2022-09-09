@@ -12,9 +12,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marshxan&show_icons=true&theme=radical)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marshxan&layout=compact&theme=dracula&langs_count=8)
 
-<p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg](https://github-profile-trophy.vercel.app/?username=Marshxan&theme=onestar&no-bg=false&title=Organizations,Commits,Repositories">
-</p>
+![trophy](https://github-profile-trophy.vercel.app/?username=Marshxan&theme=onestar&no-bg=false&title=Organizations,Commits,Repositories)
 
 
 
