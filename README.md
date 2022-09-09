@@ -28,6 +28,8 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marshxan&repo=Advanced-Spawn-DV&theme=dracula)    
 
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Marshxan&theme=onestar&no-bg=false)
+
 
 
 
