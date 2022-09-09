@@ -6,22 +6,6 @@
  
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Marshxan&theme=onestar&no-bg=false&title=Organizations,Commits,Repositories)]
-
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-
 
 
 
