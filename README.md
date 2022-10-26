@@ -35,11 +35,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Marshxan&show_icons=true&theme=dracula">
 </p>
 
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshxan&layout=compact&theme=dracula&langs_count=8">
 </p>
 
-<p align="right">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marshxan&repo=Advanced-Spawn-DV&theme=dracula">
 </p>
 
