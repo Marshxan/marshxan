@@ -35,7 +35,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Marshxan&show_icons=true&theme=dracula">
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marshxan&layout=compact&theme=dracula&langs_count=8) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marshxan&repo=Advanced-Spawn-DV&theme=dracula)](https://github.com/marshxan/advanced-spawn-dv)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshxan&layout=compact&theme=dracula&langs_count=8">
+</p>
+
+<p align="right">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Marshxan&repo=Advanced-Spawn-DV&theme=dracula">
+</p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Marshxan&theme=dracula&no-bg=false)
 
