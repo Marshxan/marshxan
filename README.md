@@ -31,7 +31,11 @@
 
 <h1 align="center"> 📊 GitHub Stats: </h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marshxan&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marshxan&layout=compact&theme=dracula&langs_count=8) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marshxan&repo=Advanced-Spawn-DV&theme=dracula)](https://github.com/marshxan/advanced-spawn-dv)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Marshxan&show_icons=true&theme=dracula">
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marshxan&layout=compact&theme=dracula&langs_count=8) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marshxan&repo=Advanced-Spawn-DV&theme=dracula)](https://github.com/marshxan/advanced-spawn-dv)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Marshxan&theme=dracula&no-bg=false)
 
