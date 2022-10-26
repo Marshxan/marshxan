@@ -21,7 +21,7 @@
  
 
 <h1 align="center"> 💻 Current Status: </h1>
-
+<h1 align="center"> https://lanyard.cnrad.dev/api/931980616344416316)](https://discord.gg/dB7aTvKfpf) </h1>
 [![Discord](https://lanyard.cnrad.dev/api/931980616344416316)](https://discord.gg/dB7aTvKfpf)
 
 
