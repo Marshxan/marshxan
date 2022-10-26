@@ -22,7 +22,10 @@
 
 <h1 align="center"> 💻 Current Status: </h1>
 
-[![Discord](https://lanyard.cnrad.dev/api/931980616344416316)](https://discord.gg/dB7aTvKfpf)
+
+<p align="center">
+<img src="https://lanyard.cnrad.dev/api/931980616344416316">
+</p>
 
 
 
@@ -40,7 +43,3 @@
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 </p>
 
-
-<p align="center">
-<img src="https://lanyard.cnrad.dev/api/931980616344416316">
-</p>
