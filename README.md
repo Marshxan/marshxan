@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=👋+Hey+there,+I'm+Marshy...+Nice+To+Meet+You">
+<img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=👋+Hey+there,+I'm+Marshy...+I+code">
 </p>
 
 ![Views](https://komarev.com/ghpvc/?username=marshxan&style=flat-square&color=ff69b4)
