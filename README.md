@@ -43,7 +43,10 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marshxan&repo=Advanced-Spawn-DV&theme=dracula">
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Marshxan&theme=dracula&no-bg=false)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Marshxan&theme=dracula&no-bg=false">
+</p>
+
 
 
 
