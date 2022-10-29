@@ -1,8 +1,8 @@
 
 ![Views](https://komarev.com/ghpvc/?username=marshxan&style=flat-square&color=ff69b4)
 
-<h3 align="center">Support Me:</h3>
-<p><a href="https://www.buymeacoffee.com/marshyy"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jericofx" /></a></p><br><br>
+<h3 align="left">Support Me:</h3>
+<p><a href="https://www.buymeacoffee.com/marshyy"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Marshyy" /></a></p><br><br>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=👋+Hey+there,+I'm+Marshy...+I+code">
