@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Marshxan&repo=Advanced-Spawn-DV&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Marshxan&repo=qb-inventoryfood&theme=dracula">
 </p>
 
 <p align="center">
