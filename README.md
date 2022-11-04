@@ -1,7 +1,7 @@
  
 ![Views](https://komarev.com/ghpvc/?username=marshxan&style=flat-square&color=ff69b4)
 
-![downloads](https://img.shields.io/github/downloads/marshxan/qb-inventoryfood/total)
+![downloads](https://img.shields.io/github/stars/marshxan?style=social)
 
 
 
