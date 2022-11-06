@@ -1,8 +1,6 @@
  
 ![Views](https://komarev.com/ghpvc/?username=marshxan&style=flat-square&color=ff69b4)
 
-![downloads](https://img.shields.io/github/stars/marshxan?style=social)
-
 
 
 <p align="center">
