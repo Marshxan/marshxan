@@ -1,5 +1,5 @@
  
-![Views](https://komarev.com/ghpvc/?username=marshxan&style=flat-square&color=ff69b4)
+
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=marshxan&style=flat-square&color=ff69b4">
