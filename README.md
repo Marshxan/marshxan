@@ -14,12 +14,6 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h1 align="center"> 💻 Current Status: </h1>
-
-<p align="center">
-<img src="https://lanyard.cnrad.dev/api/931980616344416316">
-</p>
-
 <h1 align="center"> 📊 GitHub Stats: </h1>
 
 <p align="center">
