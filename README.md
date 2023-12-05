@@ -32,9 +32,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Marshxan&theme=dracula&no-bg=false">
 </p>
 
-<h3 align="left">Support Me:</h3>
-<p><a href="https://www.buymeacoffee.com/marshyy"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Marshyy" /></a></p><br><br>
-
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 </p>
